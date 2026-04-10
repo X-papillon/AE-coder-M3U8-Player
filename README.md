@@ -88,9 +88,9 @@ Done ✅
 ## 📸 Screenshots
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/X-papillon/IPTV-M3U8-Player/refs/heads/m3u8-player/screenshot1.jpg" width="200"/>
+  <img src="https://images2.imgbox.com/ba/ad/PdwNZ8Mp_o.jpg" width="200"/>
   <br/>
-  <img src="https://raw.githubusercontent.com/X-papillon/IPTV-M3U8-Player/refs/heads/m3u8-player/screenshot2.jpg" width="200"/>
+  <img src="https://images2.imgbox.com/42/9b/cIpXFeh6_o.jpg" width="200"/>
 </p>
 
 ---
